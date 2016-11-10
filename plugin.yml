@@ -1,0 +1,87 @@
+name: Custom_Zombies
+author: Twizted_Twizlerz & rodel77
+version: 1.2
+main: com.TwiztedG.customzombies.Main
+commands:
+    czombies:
+      usage: /<command>
+      description: This is Custom zombies beta!
+permissions:
+     customz.Cat:
+        description:  Allows the player to spawn zombie cat!
+     customz.zombie:
+        description:  Allows the player to spawn zombie!
+     customz.help:
+        description: Allows players to do ./customz help!
+     customz.list:
+        description: Allows players to do ./customz list!
+     customz.zombie1:
+        description: Allows the player to spawn zombie1!
+     customz.zombie2:
+        description: Allows the player to spawn zombie2!
+     customz.zombie3:
+        description: Allows players to spawn zombie3!
+     customz.zombie4:
+        description: Allows players to spawn zombie4!
+     customz.zombie5:
+        description: Allows the player to spawn zombie5!
+     customz.zombie6:
+        description: Allows players to spawn zombie6!
+     customz.zombie7:
+        description: Allows players spawn zombie7!
+     customz.zombie8:
+        description: Allows the player to spawn zombie8!
+     customz.zombie9:
+        description: Allows the player to spawn zombie9!
+     customz.zombie10:
+        description: Allows the player to spawn zombie10!
+     customz.zombie11:
+        description: Allows the player to spawn zombie11!
+     customz.zombie12:
+        description: Allows the player to spawn zombie12!
+     customz.Typingball:
+        description: Allows players spawn typingball zombie!
+     customz.Soccerball:
+        description: Allows the player to spawn soccerball zombie!
+     customz.Rbowlingball:
+        description: Allows the player to spawn rbowlingball zombie!
+     customz.Bbowlingball:
+        description: Allows the player to spawn bbowlingball zombie!
+     customz.Gbowlingball:
+        description: Allows the player to spawn gbowlingball zombie!
+     customz.pokeball:
+        description: Allows the player to spawn pokeball zombie!
+     customz.cannonball:
+        description: Allows the player to spawn cannonball zombie!
+     customz.poolballs:
+        description: Allows players to spawn poolball zombie!
+     customz.spider:
+        description: Allows players to spawn spider zombie!
+     customz.Herobrine:
+        description: Allows the player to spawn herobrine zombie!
+     customz.slimeball:
+        description: Allows players to spawn slimeball zombie!
+     customz.goldcow:
+        description: Allows players spawn goldcow zombie!
+     customz.mummy:
+        description: Allows the player to spawn mummy zombie!
+     customz.Greatball:
+        description: Allows the player to spawn greatball zombie!
+     customz.ultraball:
+        description: Allows the player to spawn ultraball zombie!
+     customz.masterball:
+        description: Allows the player to spawn masterball zombie!
+     customz.squid:
+        description: Allows the player to spawn squid zombie!
+     customz.goldball:
+        description: Allows players spawn goldball zombie!
+     customz.ghost:
+        description: Allows the player to spawn ghost zombie!
+     customz.beachball:
+        description: Allows the player to spawn beachball zombie!
+     customz.hpumpkin:
+        description: Allows the player to spawn hzombie zombie!
+     customz.ybowlingball:
+        description: Allows the player to spawn ybowlingball zombie!
+     customz.basketball:
+        description: Allows the player to spawn basketball zombie!
